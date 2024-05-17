@@ -25,9 +25,11 @@ CONSTANT = 1
 # --------------------------------------------------------------------------------------------------
 
 
-## @brief Function that does something
-#
 def main():
+    """
+    @brief Function that does something
+    """
+    
     print("We need to do something")
 
 
